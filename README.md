@@ -1,5 +1,9 @@
-Welcome to my Project Raider Offensive !
+# Raider-Offensive
+Raider Offensive is a 2D shooting roguelike RPG game, built with Godot Engine.
+Features: roguelike random map system, robbery combat.
 
-download - u can download my game at releas I uploaded all my versions of my game over there and give me some feedback ty
+## Download Dev test version 
+Get game builds from [Releases](https://github.com/Team-Person/Raider-Offensive/releases)
 
 By Team-Person
+-J1lin
